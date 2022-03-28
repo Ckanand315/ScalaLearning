@@ -1,0 +1,2 @@
+# ScalaLearning
+for leaning scala
